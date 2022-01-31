@@ -1,0 +1,11 @@
+https://damienbod.com/2018/03/19/using-message-pack-with-asp-net-core-signalr/
+
+https://dev.to/wsantosdev/messagepack-2-comunicando-apis-asp-net-core-3ni4
+
+https://github.com/wsantosdev/lab-msgpack2
+
+https://msgpack.org/#json-to-msgpack
+
+https://github.com/neuecc/MessagePack-CSharp
+
+https://neuecc.medium.com/messagepack-for-c-v2-new-era-of-net-core-unity-i-o-pipelines-6950643c1053
